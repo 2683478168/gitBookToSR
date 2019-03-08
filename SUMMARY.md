@@ -6,10 +6,10 @@
   * [数据库备份](ying-jian-zhun-bei/shu-ju-ku-bei-fen.md)
   * [客户端配置](ying-jian-zhun-bei/ke-hu-duan-pei-zhi.md)
 * [软件初始化](ruan-jian-chu-shi-hua.md)
-  * 组织架构
+  * [组织架构](ruan-jian-chu-shi-hua/zu-zhi-jia-gou.md)
   * 资料准备
   * 期初建账
-* 业务流程
+* [业务流程](ye-wu-liu-cheng.md)
   * 进货流程
   * 销售流程
   * 调拨流程
