@@ -18,9 +18,6 @@
     "plugins": [
         "-sharing",
         "splitter",
-        "-lunr", 
-        "search",
-        "search-plus",
         "theme-comscore",
         "expandable-chapters-small",
         "anchors",
