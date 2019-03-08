@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [硬件准备](ying-jian-zhun-bei.md)
-  * 服务器安装
+  * [服务器安装](ying-jian-zhun-bei/fu-wu-qi-an-zhuang.md)
   * 数据库备份
   * 客户端配置
 * 软件初始化
