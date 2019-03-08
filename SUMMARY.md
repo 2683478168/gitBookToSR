@@ -5,7 +5,7 @@
   * [服务器安装](ying-jian-zhun-bei/fu-wu-qi-an-zhuang.md)
   * [数据库备份](ying-jian-zhun-bei/shu-ju-ku-bei-fen.md)
   * [客户端配置](ying-jian-zhun-bei/ke-hu-duan-pei-zhi.md)
-* 软件初始化
+* [软件初始化](ruan-jian-chu-shi-hua.md)
   * 组织架构
   * 资料准备
   * 期初建账
