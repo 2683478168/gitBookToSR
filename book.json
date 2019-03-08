@@ -24,7 +24,8 @@
         "anchor-navigation-ex",
         "favicon",
         "tbfed-pagefooter",
-        "iframely"
+        "iframely",
+        "toggle-chapters"
     ],
     "pluginsConfig": {
         "theme-default": {
