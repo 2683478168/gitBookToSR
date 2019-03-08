@@ -19,7 +19,7 @@
         "-sharing",
         "splitter",
         "-lunr", 
-        "-search",
+        "search",
         "search-plus",
         "theme-comscore",
         "expandable-chapters-small",
