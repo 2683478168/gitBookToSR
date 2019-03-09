@@ -2,8 +2,8 @@
 
 ## GitBook 简介
 
-* gitbook的官网
-* gitbook文档
+* [GitBook的官网](https://gitbook.com/)
+* [GitBook文档](https://docs.gitbook.com/)
 
 ## Gitbook的准备工作
 
@@ -208,7 +208,7 @@ GitBook 基本的目录结构如下所示：
 
 这个目录对应的目录结构为：![](/assets/TOC_localhost.png)
 
-## 插件
+### 插件
 
 GitBook 有[插件官网](https://link.jianshu.com/?t=https%3A%2F%2Fplugins.gitbook.com%2F)，默认带有 5 个插件，highlight、search、sharing、font-settings、livereload，如果要去除自带的插件， 可以在插件名称前面加`-`，比如：
 
