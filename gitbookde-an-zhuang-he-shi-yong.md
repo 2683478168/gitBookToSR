@@ -66,8 +66,6 @@ gitbook serve   # 生成网页，开启服务器
 
 ![](/assets/gitbook-init.png)
 
-
-
 README.md 应该不陌生，就是说明文档，而 SUMMARY.md 其实就是书的章节目录，其默认内容如下所示：
 
 ![](/assets/SUMMARY.png)
@@ -76,7 +74,7 @@ README.md 应该不陌生，就是说明文档，而 SUMMARY.md 其实就是书�
 
 这个命令一般都是在book.json中添加新的插件之后，安装插件使用的，如果你在添加插件之后没有下载该插件，在生成网页以及发布服务器的时候会报错，找不到该插件的内容、命令执行后的效果如下：
 
-
+![](/assets/install.png)
 
 ### gitbook build命令
 
@@ -201,6 +199,32 @@ GitBook 基本的目录结构如下所示：
 配置插件的属性
 
 插件的属性一般都是在gitbook plugins网站中该插件的使用说明下面
+
+### SUMMARY.md
+
+这个文件主要决定 GitBook 的章节目录，它通过 Markdown 中的列表语法来表示文件的父子关系，下面是一个简单的示例：
+
+![](/assets/summaryMd.png)
+
+这个目录对应的目录结构为：![](/assets/TOC_localhost.png)
+
+## 插件
+
+GitBook 有[插件官网](https://link.jianshu.com/?t=https%3A%2F%2Fplugins.gitbook.com%2F)，默认带有 5 个插件，highlight、search、sharing、font-settings、livereload，如果要去除自带的插件， 可以在插件名称前面加`-`，比如：
+
+```
+"plugins": [
+    "-search"
+]
+```
+
+如果要配置使用的插件可以在 book.json 文件中加入即可，比如我们添加[anchor-navigation-ex](https://plugins.gitbook.com/plugin/anchor-navigation-ex)，我们在 book.json 中加入配置如下即可：
+
+```
+"anchor-navigation-ex": {
+    "showLevel": false
+}
+```
 
 
 
