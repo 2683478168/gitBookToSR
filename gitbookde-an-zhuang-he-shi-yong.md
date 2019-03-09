@@ -5,7 +5,7 @@
 * gitbook的官网
 * gitbook文档
 
-## gitbook的准备工作
+## Gitbook的准备工作
 
 ### 安装node.js
 
