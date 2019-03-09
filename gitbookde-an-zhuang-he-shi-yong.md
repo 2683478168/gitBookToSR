@@ -66,9 +66,17 @@ gitbook serve   # 生成网页，开启服务器
 
 ![](/assets/gitbook-init.png)
 
+
+
 README.md 应该不陌生，就是说明文档，而 SUMMARY.md 其实就是书的章节目录，其默认内容如下所示：
 
 ![](/assets/SUMMARY.png)
+
+### gitbook install ./命令
+
+这个命令一般都是在book.json中添加新的插件之后，安装插件使用的，如果你在添加插件之后没有下载该插件，在生成网页以及发布服务器的时候会报错，找不到该插件的内容、命令执行后的效果如下：
+
+
 
 ### gitbook build命令
 
@@ -102,7 +110,7 @@ GitBook 基本的目录结构如下所示：
 
 ```
 {
-    "title": "Blankj's Glory",
+    "title": "商软培训文档",
     "author": "lt",
     "description": "select * from learn",
     "language": "zh-hans",
@@ -146,7 +154,53 @@ GitBook 基本的目录结构如下所示：
 }
 ```
 
+相信很多节点自己也能猜到是什么意思，我还是简单介绍下吧。
 
+#### title
+
+本书标题
+
+#### author
+
+本书作者
+
+#### description
+
+本书描述
+
+#### language
+
+本书语言，中文设置 "zh-hans" 即可
+
+#### gitbook
+
+指定使用的 GitBook 版本
+
+#### styles
+
+自定义页面样式
+
+#### structure
+
+指定 Readme、Summary、Glossary 和 Languages 对应的文件名
+
+#### links
+
+在左侧导航栏添加链接信息
+
+#### plugins
+
+配置使用的插件
+
+这里我放上[gitbook plugins官网](https://plugins.gitbook.com/plugin)，需要的插件可以到这里去寻找
+
+使用插件的话，在生成网页或者发布服务器的时候需要使用 gitbook install ./ 命令将插件安装一下
+
+#### pluginsConfig
+
+配置插件的属性
+
+插件的属性一般都是在gitbook plugins网站中该插件的使用说明下面
 
 
 
