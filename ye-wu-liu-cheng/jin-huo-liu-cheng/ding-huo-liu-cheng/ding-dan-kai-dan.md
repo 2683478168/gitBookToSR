@@ -1,2 +1,4 @@
-http://www.chengweiyang.cn/gitbook/introduction/README.html?tdsourcetag=s\_pctim\_aiomsg
+#订货开单
 
+<embed src="http://resource.3cwdb.com/kailong-donghua/F100000201303110200.swf" width="800" height="650"  pluginspage="http://www.macromedia.com/go/getflashplayer" 
+type="application/x-shockwave-flash" ></embed>
