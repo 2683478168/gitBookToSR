@@ -1,1 +1,3 @@
 <embed src="http://resource.3cwdb.com/kailong-donghua/服务器安装-1系统设置.exe" width="800" height="650"  pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" ></embed>
+
+<iframe width="750" height="422" src="http://resource.3cwdb.com/kailong-donghua/F100000201303110200.swf " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
