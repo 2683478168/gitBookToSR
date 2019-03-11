@@ -3,12 +3,17 @@
 * [Introduction](README.md)
 * [硬件准备](ying-jian-zhun-bei.md)
   * [服务器安装](ying-jian-zhun-bei/fu-wu-qi-an-zhuang.md)
+    * 系统设置
+    * SQL安装
+    * SQL设置
+    * r-server配置
+    * 客户端配置
   * [数据库备份](ying-jian-zhun-bei/shu-ju-ku-bei-fen.md)
   * [客户端配置](ying-jian-zhun-bei/ke-hu-duan-pei-zhi.md)
 * [软件初始化](ruan-jian-chu-shi-hua.md)
   * [组织架构](ruan-jian-chu-shi-hua/zu-zhi-jia-gou.md)
-  * 资料准备
-  * 期初建账
+  * [资料准备](ruan-jian-chu-shi-hua/zi-liao-zhun-bei.md)
+  * [期初建账](ruan-jian-chu-shi-hua/qi-chu-jian-zhang.md)
 * [业务流程](ye-wu-liu-cheng.md)
   * 进货流程
   * 销售流程
@@ -38,6 +43,4 @@
   * 多级限价
   * 客户分组
 * 常见问题
-
-
 
