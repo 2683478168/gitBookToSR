@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [硬件准备](ying-jian-zhun-bei.md)
   * [服务器安装](ying-jian-zhun-bei/fu-wu-qi-an-zhuang.md)
-    * 系统设置
+    * [系统设置](ying-jian-zhun-bei/fu-wu-qi-an-zhuang/xi-tong-she-zhi.md)
     * SQL安装
     * SQL设置
     * r-server配置
