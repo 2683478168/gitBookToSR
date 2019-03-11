@@ -129,122 +129,122 @@
       * [指标设置](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi.md)
         * [商品分组](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/shang-pin-fen-zu.md)
         * [考核部门，职员，客户设定](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/kao-he-bu-men-ff0c-zhi-yuan-ff0c-ke-hu-she-ding.md)
-        * 公司销售目标制定
+        * [公司销售目标制定](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/gong-si-xiao-shou-mu-biao-zhi-ding.md)
         * [部门销售目标制定](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/bu-men-xiao-shou-mu-biao-zhi-ding.md)
-        * 职员销售目标制定
+        * [职员销售目标制定](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/zhi-yuan-xiao-shou-mu-biao-zhi-ding.md)
         * [客户销售目标制定](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/ke-hu-xiao-shou-mu-biao-zhi-ding.md)
-        * 目标量的考核统计
-    * 表格万能查询
-    * 会员管理
+        * [目标量的考核统计](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/mu-biao-liang-de-kao-he-tong-ji.md)
+    * [表格万能查询](mo-kuai-gong-neng/xiao-shou-ye-wu/biao-ge-wan-neng-cha-xun.md)
+    * [会员管理](mo-kuai-gong-neng/xiao-shou-ye-wu/hui-yuan-guan-li.md)
   * 进货业务
     * [订单开单](mo-kuai-gong-neng/ding-dan-kai-dan.md)
-    * 调货开单
-    * 付款申请开单
+    * [调货开单](mo-kuai-gong-neng/diao-huo-kai-dan.md)
+    * [付款申请开单](mo-kuai-gong-neng/fu-kuan-shen-qing-kai-dan.md)
     * 简单生产
-      * 简单生产开通设置
-      * 简单生产使用
-    * 表格万能查询
+      * [简单生产开通设置](mo-kuai-gong-neng/jian-dan-sheng-chan-kai-tong-she-zhi.md)
+      * [简单生产使用](mo-kuai-gong-neng/jian-dan-sheng-chan-shi-yong.md)
+    * [表格万能查询](mo-kuai-gong-neng/biao-ge-wan-neng-cha-xun.md)
   * 商务管理
-    * 调拨开单
+    * [调拨开单](mo-kuai-gong-neng/diao-bo-kai-dan.md)
     * 发票管理
-      * 开通设置
-      * 发票使用
+      * [开通设置](mo-kuai-gong-neng/kai-tong-she-zhi.md)
+      * [发票使用](mo-kuai-gong-neng/fa-piao-shi-yong.md)
     * 进货返款
-      * 开通设置
-      * 开单统计
-      * 记账收入
-      * 调整查询
+      * [开通设置](mo-kuai-gong-neng/kai-tong-she-zhi.md)
+      * [开单统计](mo-kuai-gong-neng/kai-dan-tong-ji.md)
+      * [记账收入](mo-kuai-gong-neng/ji-zhang-shou-ru.md)
+      * [调整查询](mo-kuai-gong-neng/diao-zheng-cha-xun.md)
     * 项目管理
-      * 开通设置
-      * 项目开单
-      * 项目审核
-      * 领料流程
-      * 项目收款
-      * 项目完成
-      * 项目结束
-      * 项目查询
+      * [开通设置](mo-kuai-gong-neng/kai-tong-she-zhi.md)
+      * [项目开单](mo-kuai-gong-neng/xiang-mu-kai-dan.md)
+      * [项目审核](mo-kuai-gong-neng/xiang-mu-shen-he.md)
+      * [领料流程](mo-kuai-gong-neng/ling-liao-liu-cheng.md)
+      * [项目收款](mo-kuai-gong-neng/xiang-mu-shou-kuan.md)
+      * [项目完成](mo-kuai-gong-neng/xiang-mu-wan-cheng.md)
+      * [项目结束](mo-kuai-gong-neng/xiang-mu-jie-shu.md)
+      * [项目查询](mo-kuai-gong-neng/xiang-mu-cha-xun.md)
     * 销售返利
-      * 返利开单
-      * 返利审核
-      * 返利使用
-      * 返利查询
+      * [返利开单](mo-kuai-gong-neng/fan-li-kai-dan.md)
+      * [返利审核](mo-kuai-gong-neng/fan-li-shen-he.md)
+      * [返利使用](mo-kuai-gong-neng/fan-li-shi-yong.md)
+      * [返利查询](mo-kuai-gong-neng/fan-li-cha-xun.md)
     * 进货返利
-      * 返利开单
-      * 返利审核
-      * 返利使用
-      * 返利查询
+      * [返利开单](mo-kuai-gong-neng/fan-li-kai-dan.md)
+      * [返利审核](mo-kuai-gong-neng/fan-li-shen-he.md)
+      * [返利使用](mo-kuai-gong-neng/fan-li-shi-yong.md)
+      * [返利查询](mo-kuai-gong-neng/fan-li-cha-xun.md)
   * 收款台
-    * 销售收款
-    * 当日单据修改
+    * [销售收款](mo-kuai-gong-neng/xiao-shou-shou-kuan.md)
+    * [当日单据修改](mo-kuai-gong-neng/dang-ri-dan-ju-xiu-gai.md)
   * 出纳业务
-    * 费用付款
-    * 单据部分核销
-    * 转账操作及银行日记记账查询
+    * [费用付款](mo-kuai-gong-neng/fei-yong-fu-kuan.md)
+    * [单据部分核销](mo-kuai-gong-neng/dan-ju-bu-fen-he-xiao.md)
+    * [转账操作及银行日记记账查询](mo-kuai-gong-neng/zhuan-zhang-cao-zuo-ji-yin-xing-ri-ji-ji-zhang-cha-xun.md)
   * 财务管理
     * 账期和额度设置
-      * 开通设置
-      * 账单设置后演示
-      * 额度设置后演示
+      * [开通设置](mo-kuai-gong-neng/kai-tong-she-zhi.md)
+      * [账单设置后演示](mo-kuai-gong-neng/zhang-dan-she-zhi-hou-yan-shi.md)
+      * [额度设置后演示](mo-kuai-gong-neng/e-du-she-zhi-hou-yan-shi.md)
     * 应付罚息
-      * 超期罚息设定
-      * 欠款罚息设定
-      * 资金占用罚息查询
-      * 超期占用罚息明细查询
-      * 超期占用罚息分析
-      * 欠款占用罚息明细查询
-      * 欠款占用罚息分析
+      * [超期罚息设定](mo-kuai-gong-neng/chao-qi-fa-xi-she-ding.md)
+      * [欠款罚息设定](mo-kuai-gong-neng/qian-kuan-fa-xi-she-ding.md)
+      * [资金占用罚息查询](mo-kuai-gong-neng/zi-jin-zhan-yong-fa-xi-cha-xun.md)
+      * [超期占用罚息明细查询](mo-kuai-gong-neng/chao-qi-zhan-yong-fa-xi-ming-xi-cha-xun.md)
+      * [超期占用罚息分析](mo-kuai-gong-neng/chao-qi-zhan-yong-fa-xi-fen-xi.md)
+      * [欠款占用罚息明细查询](mo-kuai-gong-neng/qian-kuan-zhan-yong-fa-xi-ming-xi-cha-xun.md)
+      * [欠款占用罚息分析](mo-kuai-gong-neng/qian-kuan-zhan-yong-fa-xi-fen-xi.md)
   * 库房管理
-    * 销售出库
-    * 订单入库
-    * 调拨出库
-    * 调拨入库
+    * [销售出库](mo-kuai-gong-neng/xiao-shou-chu-ku.md)
+    * [订单入库](mo-kuai-gong-neng/ding-dan-ru-ku.md)
+    * [调拨出库](mo-kuai-gong-neng/diao-bo-chu-ku.md)
+    * [调拨入库](mo-kuai-gong-neng/diao-bo-ru-ku.md)
     * 系列号功能
-      * 开通设置
-      * 系列号使用
-    * 库房保修开单
+      * [开通设置](mo-kuai-gong-neng/kai-tong-she-zhi.md)
+      * [系列号使用](mo-kuai-gong-neng/xi-lie-hao-shi-yong.md)
+    * [库房保修开单](mo-kuai-gong-neng/ku-fang-bao-xiu-kai-dan.md)
   * 配送审核
-    * 销售审核
-    * 费用报销审核
+    * [销售审核](mo-kuai-gong-neng/xiao-shou-shen-he.md)
+    * [费用报销审核](mo-kuai-gong-neng/fei-yong-bao-xiao-shen-he.md)
 * [特殊功能](te-shu-gong-neng.md)
   * [客户端绑定](te-shu-gong-neng/ke-hu-duan-bang-ding.md)
   * CRM
-    * CRM授权
-    * 日程设计
-    * 客户资料
-    * 销售机会
-    * 自定义模块
-    * 查询统计
-    * 数据挖掘
+    * [CRM授权](te-shu-gong-neng/crmshou-quan.md)
+    * [日程设计](te-shu-gong-neng/ri-cheng-she-ji.md)
+    * [客户资料](te-shu-gong-neng/ke-hu-zi-liao.md)
+    * [销售机会](te-shu-gong-neng/xiao-shou-ji-hui.md)
+    * [自定义模块](te-shu-gong-neng/zi-ding-yi-mo-kuai.md)
+    * [查询统计](te-shu-gong-neng/cha-xun-tong-ji.md)
+    * [数据挖掘](te-shu-gong-neng/shu-ju-wa-jue.md)
   * 会员管理
-    * 科目设定
-    * 会员级别设定
-    * 会员资料管理
-    * 商品积分设置
-    * 会员积分使用
-    * 会员积分查询
-    * 会员积分调整
+    * [科目设定](te-shu-gong-neng/ke-mu-she-ding.md)
+    * [会员级别设定](te-shu-gong-neng/hui-yuan-ji-bie-she-ding.md)
+    * [会员资料管理](te-shu-gong-neng/hui-yuan-zi-liao-guan-li.md)
+    * [商品积分设置](te-shu-gong-neng/shang-pin-ji-fen-she-zhi.md)
+    * [会员积分使用](te-shu-gong-neng/hui-yuan-ji-fen-shi-yong.md)
+    * [会员积分查询](te-shu-gong-neng/hui-yuan-ji-fen-cha-xun.md)
+    * [会员积分调整](te-shu-gong-neng/hui-yuan-ji-fen-diao-zheng.md)
   * 分店部门查询控制设置
-    * 设置职员多范围权限
-    * 分店查询权限设置
-    * 销售查询控制按部门
-    * 进货查询控制按部门
-    * 费用查询控制按部门
-    * 收入查询控制按部门
+    * [设置职员多范围权限](te-shu-gong-neng/she-zhi-zhi-yuan-duo-fan-wei-quan-xian.md)
+    * [分店查询权限设置](te-shu-gong-neng/fen-dian-cha-xun-quan-xian-she-zhi.md)
+    * [销售查询控制按部门](te-shu-gong-neng/xiao-shou-cha-xun-kong-zhi-an-bu-men.md)
+    * [进货查询控制按部门](te-shu-gong-neng/jin-huo-cha-xun-kong-zhi-an-bu-men.md)
+    * [费用查询控制按部门](te-shu-gong-neng/fei-yong-cha-xun-kong-zhi-an-bu-men.md)
+    * [收入查询控制按部门](te-shu-gong-neng/shou-ru-cha-xun-kong-zhi-an-bu-men.md)
   * 多级限价
-    * 限价商品定义
-    * 限价商品分组
-    * 限价策略定义
-    * 商品分级限价
-    * 客户限价级别
-    * 客户限价查询
-    * 职员限价级别
-    * 部门限价级别
-    * 分店限价级别
+    * [限价商品定义](te-shu-gong-neng/xian-jia-shang-pin-ding-yi.md)
+    * [限价商品分组](te-shu-gong-neng/xian-jia-shang-pin-fen-zu.md)
+    * [限价策略定义](te-shu-gong-neng/xian-jia-ce-lve-ding-yi.md)
+    * [商品分级限价](te-shu-gong-neng/shang-pin-fen-ji-xian-jia.md)
+    * [客户限价级别](te-shu-gong-neng/ke-hu-xian-jia-ji-bie.md)
+    * [客户限价查询](te-shu-gong-neng/ke-hu-xian-jia-cha-xun.md)
+    * [职员限价级别](te-shu-gong-neng/zhi-yuan-xian-jia-ji-bie.md)
+    * [部门限价级别](te-shu-gong-neng/bu-men-xian-jia-ji-bie.md)
+    * [分店限价级别](te-shu-gong-neng/fen-dian-xian-jia-ji-bie.md)
   * 客户分组
-    * 客户组定义
-    * 客户分组设置
-    * 客户分组权限设定
-    * 查询演示
+    * [客户组定义](te-shu-gong-neng/ke-hu-zu-ding-yi.md)
+    * [客户分组设置](te-shu-gong-neng/ke-hu-fen-zu-she-zhi.md)
+    * [客户分组权限设定](te-shu-gong-neng/ke-hu-fen-zu-quan-xian-she-ding.md)
+    * [查询演示](te-shu-gong-neng/cha-xun-yan-shi.md)
 * 常见问题
-  * 小数点修改
+  * [小数点修改](xiao-shu-dian-xiu-gai.md)
 
