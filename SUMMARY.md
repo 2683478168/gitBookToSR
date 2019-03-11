@@ -40,17 +40,17 @@
 * [业务流程](ye-wu-liu-cheng.md)
   * [进货流程](ye-wu-liu-cheng/jin-huo-liu-cheng.md)
     * [订货流程](ye-wu-liu-cheng/jin-huo-liu-cheng/ding-huo-liu-cheng.md)
-      * 订单开单
-      * 订单审核
-      * 订单入库
+      * [订单开单](ye-wu-liu-cheng/jin-huo-liu-cheng/ding-huo-liu-cheng/ding-dan-kai-dan.md)
+      * [订单审核](ye-wu-liu-cheng/jin-huo-liu-cheng/ding-huo-liu-cheng/ding-dan-shen-he.md)
+      * [订单入库](ye-wu-liu-cheng/jin-huo-liu-cheng/ding-huo-liu-cheng/ding-dan-ru-ku.md)
     * [调货流程](ye-wu-liu-cheng/jin-huo-liu-cheng/diao-huo-liu-cheng.md)
-      * 调货开单
-      * 调货入库
+      * [调货开单](ye-wu-liu-cheng/jin-huo-liu-cheng/diao-huo-liu-cheng/diao-huo-kai-dan.md)
+      * [调货入库](ye-wu-liu-cheng/jin-huo-liu-cheng/diao-huo-liu-cheng/diao-huo-ru-ku.md)
     * [订单流程答疑](ye-wu-liu-cheng/jin-huo-liu-cheng/ding-dan-liu-cheng-da-yi.md)
-      * 订单复制
-      * 部分入库，如何关闭订单
-      * 全部入库，如何退货
-      * 采购商务如何直接生成入库单
+      * [订单复制](ye-wu-liu-cheng/jin-huo-liu-cheng/ding-dan-liu-cheng-da-yi/ding-dan-fu-zhi.md)
+      * [部分入库，如何关闭订单](ye-wu-liu-cheng/jin-huo-liu-cheng/ding-dan-liu-cheng-da-yi/bu-fen-ru-ku-ff0c-ru-he-guan-bi-ding-dan.md)
+      * [全部入库，如何退货](ye-wu-liu-cheng/jin-huo-liu-cheng/ding-dan-liu-cheng-da-yi/quan-bu-ru-ku-ff0c-ru-he-tui-huo.md)
+      * [采购商务如何直接生成入库单](ye-wu-liu-cheng/jin-huo-liu-cheng/ding-dan-liu-cheng-da-yi/cai-gou-shang-wu-ru-he-zhi-jie-sheng-cheng-ru-ku-dan.md)
   * [销售流程](ye-wu-liu-cheng/xiao-shou-liu-cheng.md)
     * [销售开单](ye-wu-liu-cheng/xiao-shou-liu-cheng/xiao-shou-kai-dan.md)
     * [销售审核](ye-wu-liu-cheng/xiao-shou-liu-cheng/xiao-shou-shen-he.md)
