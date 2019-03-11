@@ -232,5 +232,5 @@ GitBook 有[插件官网](https://link.jianshu.com/?t=https%3A%2F%2Fplugins.gitb
 
 以上就是我最近一段时间内针对gitbook学习的一点点心得，当然gitbook还有很多其他的功能，这就需要自己去深入的学习了！
 
-最后我在附上一个[gitbook与GitHub仓库关联](https://segmentfault.com/a/1190000011440899)的帖子，这个是我认为与GitHub关联最简单的一个方式，至于其他的方式还是要靠自己去学习
+最后我在附上一个[gitbook与GitHub仓库关联](https://segmentfault.com/a/1190000011440899)的帖子，这个是我认为与GitHub关联最简单的一个方式，至于其他的方式还是要靠自己去学习。
 
