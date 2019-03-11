@@ -230,7 +230,7 @@
     * [进货查询控制按部门](te-shu-gong-neng/jin-huo-cha-xun-kong-zhi-an-bu-men.md)
     * [费用查询控制按部门](te-shu-gong-neng/fei-yong-cha-xun-kong-zhi-an-bu-men.md)
     * [收入查询控制按部门](te-shu-gong-neng/shou-ru-cha-xun-kong-zhi-an-bu-men.md)
-  * [多级限价](te-shu-gong-neng/duo-ji-xian-jia.md)
+  * 多级限价
     * [限价商品定义](te-shu-gong-neng/xian-jia-shang-pin-ding-yi.md)
     * [限价商品分组](te-shu-gong-neng/xian-jia-shang-pin-fen-zu.md)
     * [限价策略定义](te-shu-gong-neng/xian-jia-ce-lve-ding-yi.md)
@@ -240,11 +240,13 @@
     * [职员限价级别](te-shu-gong-neng/zhi-yuan-xian-jia-ji-bie.md)
     * [部门限价级别](te-shu-gong-neng/bu-men-xian-jia-ji-bie.md)
     * [分店限价级别](te-shu-gong-neng/fen-dian-xian-jia-ji-bie.md)
-  * [客户分组](te-shu-gong-neng/ke-hu-fen-zu.md)
+  * 客户分组
     * [客户组定义](te-shu-gong-neng/ke-hu-zu-ding-yi.md)
     * [客户分组设置](te-shu-gong-neng/ke-hu-fen-zu-she-zhi.md)
     * [客户分组权限设定](te-shu-gong-neng/ke-hu-fen-zu-quan-xian-she-ding.md)
     * [查询演示](te-shu-gong-neng/cha-xun-yan-shi.md)
-* 常见问题
+* [常见问题](chang-jian-wen-ti.md)
   * [小数点修改](xiao-shu-dian-xiu-gai.md)
+
+
 
