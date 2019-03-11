@@ -4,56 +4,56 @@
 * [硬件准备](ying-jian-zhun-bei.md)
   * [服务器安装](ying-jian-zhun-bei/fu-wu-qi-an-zhuang.md)
     * [系统设置](ying-jian-zhun-bei/fu-wu-qi-an-zhuang/xi-tong-she-zhi.md)
-    * SQL安装
-    * SQL设置
-    * r-server配置
-    * 客户端配置
+    * [SQL安装](ying-jian-zhun-bei/fu-wu-qi-an-zhuang/sqlan-zhuang.md)
+    * [SQL设置](ying-jian-zhun-bei/fu-wu-qi-an-zhuang/sqlshe-zhi.md)
+    * [r-server配置](ying-jian-zhun-bei/fu-wu-qi-an-zhuang/r-serverpei-zhi.md)
+    * [客户端配置](ying-jian-zhun-bei/fu-wu-qi-an-zhuang/ke-hu-duan-pei-zhi.md)
   * [数据库备份](ying-jian-zhun-bei/shu-ju-ku-bei-fen.md)
-    * 小时备份
-    * 按天备份
-    * 按月备份
-    * 单独备份
-    * 数据库还原
+    * [小时备份](ying-jian-zhun-bei/shu-ju-ku-bei-fen/xiao-shi-bei-fen.md)
+    * [按天备份](ying-jian-zhun-bei/shu-ju-ku-bei-fen/an-tian-bei-fen.md)
+    * [按月备份](ying-jian-zhun-bei/shu-ju-ku-bei-fen/an-yue-bei-fen.md)
+    * [单独备份](ying-jian-zhun-bei/shu-ju-ku-bei-fen/dan-du-bei-fen.md)
+    * [数据库还原](ying-jian-zhun-bei/shu-ju-ku-bei-fen/shu-ju-ku-huan-yuan.md)
   * [客户端配置](ying-jian-zhun-bei/ke-hu-duan-pei-zhi.md)
-    * sadasd
+    * [sadasd](ying-jian-zhun-bei/ke-hu-duan-pei-zhi/sadasd.md)
 * [软件初始化](ruan-jian-chu-shi-hua.md)
   * [组织架构](ruan-jian-chu-shi-hua/zu-zhi-jia-gou.md)
-    * 组织结构
-    * 个人设置
-    * 权限设置
-    * 系统参数设置
-    * 付款方式设置
+    * [组织结构](ruan-jian-chu-shi-hua/zu-zhi-jia-gou/zu-zhi-jie-gou.md)
+    * [个人设置](ruan-jian-chu-shi-hua/zu-zhi-jia-gou/ge-ren-she-zhi.md)
+    * [权限设置](ruan-jian-chu-shi-hua/zu-zhi-jia-gou/quan-xian-she-zhi.md)
+    * [系统参数设置](ruan-jian-chu-shi-hua/zu-zhi-jia-gou/xi-tong-can-shu-she-zhi.md)
+    * [付款方式设置](ruan-jian-chu-shi-hua/zu-zhi-jia-gou/fu-kuan-fang-shi-she-zhi.md)
   * [资料准备](ruan-jian-chu-shi-hua/zi-liao-zhun-bei.md)
-    * 商品资料
-      * 商品大类
-      * 商品类别
-      * 商品编码
-    * 往来单位资料
-    * 银行账户
+    * [商品资料](ruan-jian-chu-shi-hua/zi-liao-zhun-bei/shang-pin-zi-liao.md)
+      * [商品大类](ruan-jian-chu-shi-hua/zi-liao-zhun-bei/shang-pin-zi-liao/shang-pin-da-lei.md)
+      * [商品类别](ruan-jian-chu-shi-hua/zi-liao-zhun-bei/shang-pin-zi-liao/shang-pin-lei-bie.md)
+      * [商品编码](ruan-jian-chu-shi-hua/zi-liao-zhun-bei/shang-pin-zi-liao/shang-pin-bian-ma.md)
+    * [往来单位资料](ruan-jian-chu-shi-hua/zi-liao-zhun-bei/wang-lai-dan-wei-zi-liao.md)
+    * [银行账户](ruan-jian-chu-shi-hua/zi-liao-zhun-bei/yin-xing-zhang-hu.md)
   * [期初建账](ruan-jian-chu-shi-hua/qi-chu-jian-zhang.md)
-    * 库存建账
-    * 库存成本建账
-    * 应收应付建账
-    * 内部应收应付建账
-    * 返回保修建账
-    * 资金建账
+    * [库存建账](ruan-jian-chu-shi-hua/qi-chu-jian-zhang/ku-cun-jian-zhang.md)
+    * [库存成本建账](ruan-jian-chu-shi-hua/qi-chu-jian-zhang/ku-cun-cheng-ben-jian-zhang.md)
+    * [应收应付建账](ruan-jian-chu-shi-hua/qi-chu-jian-zhang/ying-shou-ying-fu-jian-zhang.md)
+    * [内部应收应付建账](ruan-jian-chu-shi-hua/qi-chu-jian-zhang/nei-bu-ying-shou-ying-fu-jian-zhang.md)
+    * [返回保修建账](ruan-jian-chu-shi-hua/qi-chu-jian-zhang/fan-hui-bao-xiu-jian-zhang.md)
+    * [资金建账](ruan-jian-chu-shi-hua/qi-chu-jian-zhang/zi-jin-jian-zhang.md)
 * [业务流程](ye-wu-liu-cheng.md)
-  * 进货流程
-    * 订货流程
+  * [进货流程](ye-wu-liu-cheng/jin-huo-liu-cheng.md)
+    * [订货流程](ye-wu-liu-cheng/jin-huo-liu-cheng/ding-huo-liu-cheng.md)
       * 订单开单
       * 订单审核
       * 订单入库
-    * 调货流程
+    * [调货流程](ye-wu-liu-cheng/jin-huo-liu-cheng/diao-huo-liu-cheng.md)
       * 调货开单
       * 调货入库
-    * 订单流程答疑
+    * [订单流程答疑](ye-wu-liu-cheng/jin-huo-liu-cheng/ding-dan-liu-cheng-da-yi.md)
       * 订单复制
       * 部分入库，如何关闭订单
       * 全部入库，如何退货
       * 采购商务如何直接生成入库单
-  * 销售流程
-    * 销售开单
-    * 销售审核
+  * [销售流程](ye-wu-liu-cheng/xiao-shou-liu-cheng.md)
+    * [销售开单](ye-wu-liu-cheng/xiao-shou-liu-cheng/xiao-shou-kai-dan.md)
+    * [销售审核](ye-wu-liu-cheng/xiao-shou-liu-cheng/xiao-shou-shen-he.md)
     * 销售收款
     * 销售出库
     * 流程答疑
