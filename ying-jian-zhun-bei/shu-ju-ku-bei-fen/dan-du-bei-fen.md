@@ -1,4 +1,4 @@
-&lt;embed src="http://resource.3cwdb.com/kailong-donghua/F100000201303110200.swf" width="800" height="650"  pluginspage="http://www.macromedia.com/go/getflashplayer" 
+# 单独备份
 
-type="application/x-shockwave-flash" &gt;&lt;/embed&gt;
+此文件是exe文件，需要下载到本地浏览，请点击[地址](http://resource.3cwdb.com/kailong-donghua/数据备份_4单独备份.exe)下载动画
 

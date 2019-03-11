@@ -7,7 +7,6 @@
     * [SQL安装](ying-jian-zhun-bei/fu-wu-qi-an-zhuang/sqlan-zhuang.md)
     * [SQL设置](ying-jian-zhun-bei/fu-wu-qi-an-zhuang/sqlshe-zhi.md)
     * [r-server配置](ying-jian-zhun-bei/fu-wu-qi-an-zhuang/r-serverpei-zhi.md)
-    * [客户端配置](ying-jian-zhun-bei/fu-wu-qi-an-zhuang/ke-hu-duan-pei-zhi.md)
   * [数据库备份](ying-jian-zhun-bei/shu-ju-ku-bei-fen.md)
     * [小时备份](ying-jian-zhun-bei/shu-ju-ku-bei-fen/xiao-shi-bei-fen.md)
     * [按天备份](ying-jian-zhun-bei/shu-ju-ku-bei-fen/an-tian-bei-fen.md)
@@ -247,6 +246,4 @@
     * [查询演示](te-shu-gong-neng/ke-hu-fen-zu/cha-xun-yan-shi.md)
 * 常见问题
   * [小数点修改](xiao-shu-dian-xiu-gai.md)
-
-
 
