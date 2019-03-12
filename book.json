@@ -22,14 +22,6 @@
     "pluginsConfig": {
         "theme-default": {
             "showLevel": false
-        },
-        "anchor-navigation-ex": {
-            "showLevel": false
-        },
-         "tbfed-pagefooter": {
-            "copyright": "Copyright © 南京商软 2019",
-            "modify_label": "该文件修订时间：",
-            "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
     }
 }
