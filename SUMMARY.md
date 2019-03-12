@@ -182,7 +182,7 @@
   * [财务管理](mo-kuai-gong-neng/cai-wu-guan-li.md)
     * [账期和额度设置](mo-kuai-gong-neng/cai-wu-guan-li/zhang-qi-he-e-du-she-zhi.md)
       * [开通设置](mo-kuai-gong-neng/cai-wu-guan-li/zhang-qi-he-e-du-she-zhi/kai-tong-she-zhi.md)
-      * [账单设置后演示](mo-kuai-gong-neng/cai-wu-guan-li/zhang-qi-he-e-du-she-zhi/zhang-dan-she-zhi-hou-yan-shi.md)
+      * [账期设置后演示](mo-kuai-gong-neng/cai-wu-guan-li/zhang-qi-he-e-du-she-zhi/zhang-dan-she-zhi-hou-yan-shi.md)
       * [额度设置后演示](mo-kuai-gong-neng/cai-wu-guan-li/zhang-qi-he-e-du-she-zhi/e-du-she-zhi-hou-yan-shi.md)
     * [应付罚息](mo-kuai-gong-neng/cai-wu-guan-li/ying-fu-fa-xi.md)
       * [超期罚息设定](mo-kuai-gong-neng/cai-wu-guan-li/ying-fu-fa-xi/chao-qi-fa-xi-she-ding.md)
@@ -246,6 +246,4 @@
     * [查询演示](te-shu-gong-neng/ke-hu-fen-zu/cha-xun-yan-shi.md)
 * 常见问题
   * [小数点修改](xiao-shu-dian-xiu-gai.md)
-
-
 
