@@ -1,4 +1,6 @@
-&lt;embed src="http://resource.3cwdb.com/kailong-donghua/F100000201303110200.swf" width="800" height="650"  pluginspage="http://www.macromedia.com/go/getflashplayer" 
+#借出转销售开单
 
-type="application/x-shockwave-flash" &gt;&lt;/embed&gt;
+<embed src="http://resource.3cwdb.com/kailong-donghua/F400004201108080230.swf" width="800" height="650"  pluginspage="http://www.macromedia.com/go/getflashplayer" 
+type="application/x-shockwave-flash" ></embed>
+
 
