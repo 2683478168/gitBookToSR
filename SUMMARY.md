@@ -241,7 +241,6 @@
     * [分店限价级别](te-shu-gong-neng/duo-ji-xian-jia/fen-dian-xian-jia-ji-bie.md)
   * [客户分组](te-shu-gong-neng/ke-hu-fen-zu.md)
     * [客户组定义](te-shu-gong-neng/ke-hu-fen-zu/ke-hu-zu-ding-yi.md)
-    * [客户分组设置](te-shu-gong-neng/ke-hu-fen-zu/ke-hu-fen-zu-she-zhi.md)
     * [客户分组权限设定](te-shu-gong-neng/ke-hu-fen-zu/ke-hu-fen-zu-quan-xian-she-ding.md)
     * [查询演示](te-shu-gong-neng/ke-hu-fen-zu/cha-xun-yan-shi.md)
 * 常见问题
