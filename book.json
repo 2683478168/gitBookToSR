@@ -10,11 +10,6 @@
     "structure": {
         "readme": "README.md"
     },
-    "links": {
-        "sidebar": {
-          "3C网店宝": "http://www.3cerp.com/"
-        }
-    },
     "plugins": [
         "-sharing",
         "splitter",
