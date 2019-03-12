@@ -126,13 +126,13 @@
     * [费用报销申请](mo-kuai-gong-neng/xiao-shou-ye-wu/fei-yong-bao-xiao-shen-qing.md)
     * [销售目标管理](mo-kuai-gong-neng/xiao-shou-ye-wu/xiao-shou-mu-biao-guan-li.md)
       * [指标设置](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi.md)
-        * [商品分组](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/shang-pin-fen-zu.md)
-        * [考核部门，职员，客户设定](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/kao-he-bu-men-ff0c-zhi-yuan-ff0c-ke-hu-she-ding.md)
-        * [公司销售目标制定](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/gong-si-xiao-shou-mu-biao-zhi-ding.md)
-        * [部门销售目标制定](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/bu-men-xiao-shou-mu-biao-zhi-ding.md)
-        * [职员销售目标制定](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/zhi-yuan-xiao-shou-mu-biao-zhi-ding.md)
-        * [客户销售目标制定](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/ke-hu-xiao-shou-mu-biao-zhi-ding.md)
-        * [目标量的考核统计](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/mu-biao-liang-de-kao-he-tong-ji.md)
+      * [商品分组](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/shang-pin-fen-zu.md)
+      * [目标量的考核统计](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/mu-biao-liang-de-kao-he-tong-ji.md)
+      * [考核部门，职员，客户设定](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/kao-he-bu-men-ff0c-zhi-yuan-ff0c-ke-hu-she-ding.md)
+      * [客户销售目标制定](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/ke-hu-xiao-shou-mu-biao-zhi-ding.md)
+      * [公司销售目标制定](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/gong-si-xiao-shou-mu-biao-zhi-ding.md)
+      * [职员销售目标制定](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/zhi-yuan-xiao-shou-mu-biao-zhi-ding.md)
+      * [部门销售目标制定](mo-kuai-gong-neng/xiao-shou-ye-wu/zhi-biao-she-zhi/bu-men-xiao-shou-mu-biao-zhi-ding.md)
     * [表格万能查询](mo-kuai-gong-neng/xiao-shou-ye-wu/biao-ge-wan-neng-cha-xun.md)
     * [会员管理](mo-kuai-gong-neng/xiao-shou-ye-wu/hui-yuan-guan-li.md)
   * [进货业务](mo-kuai-gong-neng/jin-huo-ye-wu.md)
@@ -246,4 +246,6 @@
     * [查询演示](te-shu-gong-neng/ke-hu-fen-zu/cha-xun-yan-shi.md)
 * 常见问题
   * [小数点修改](xiao-shu-dian-xiu-gai.md)
+
+
 
