@@ -243,6 +243,6 @@
     * [客户组定义](te-shu-gong-neng/ke-hu-fen-zu/ke-hu-zu-ding-yi.md)
     * [客户分组权限设定](te-shu-gong-neng/ke-hu-fen-zu/ke-hu-fen-zu-quan-xian-she-ding.md)
     * [查询演示](te-shu-gong-neng/ke-hu-fen-zu/cha-xun-yan-shi.md)
-* 常见问题
+* [常见问题](chang-jian-wen-ti.md)
   * [小数点修改](xiao-shu-dian-xiu-gai.md)
 
