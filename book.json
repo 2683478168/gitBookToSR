@@ -17,9 +17,7 @@
         "-search",
         "search-plus",
         "theme-comscore",
-        "expandable-chapters-small",
-        "favicon",
-        "iframely"
+        "expandable-chapters-small"
     ],
     "pluginsConfig": {
         "theme-default": {
