@@ -14,7 +14,6 @@
     * [单独备份](ying-jian-zhun-bei/shu-ju-ku-bei-fen/dan-du-bei-fen.md)
     * [数据库还原](ying-jian-zhun-bei/shu-ju-ku-bei-fen/shu-ju-ku-huan-yuan.md)
   * [客户端配置](ying-jian-zhun-bei/ke-hu-duan-pei-zhi.md)
-    * [sadasd](ying-jian-zhun-bei/ke-hu-duan-pei-zhi/sadasd.md)
 * [软件初始化](ruan-jian-chu-shi-hua.md)
   * [组织架构](ruan-jian-chu-shi-hua/zu-zhi-jia-gou.md)
     * [组织结构](ruan-jian-chu-shi-hua/zu-zhi-jia-gou/zu-zhi-jie-gou.md)
